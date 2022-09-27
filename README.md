@@ -28,7 +28,7 @@ Para o gerenciamento dos dados foi utlizado o banco de dados não relacional Mon
 Clone o projeto
 
 ```bash
-  git@github.com:Terexes/car-shop.git
+ git clone git@github.com:Terexes/car-shop.git
 ```
 
 Entre no diretório do projeto
